@@ -1,0 +1,7 @@
+.toolbar-item {
+	padding: 8px 12px;
+}
+
+.toolbar-item__selected {
+	background-color: #97ebe4;
+}
